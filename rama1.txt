@@ -2,5 +2,11 @@ hola
 hola1
 hola2
 hola3
+<<<<<<< HEAD
 Linea 1
 Linea 2
+=======
+Una linea
+Otra mas
+Y otra mas
+>>>>>>> mirama
